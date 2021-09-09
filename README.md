@@ -10,16 +10,16 @@ Refactoring Code:
 We followed the following steps to refactor our code and measured the final performance.
 
 1.	We created a header row in our output sheet and initialized arrays of all 12 tickers and assign variable
-2.	<img width="264" alt="Create header row and arrays" src="https://user-images.githubusercontent.com/86980240/132613471-0a485734-84fd-4bb1-8f09-845f5c953f02.png">
+	<img width="264" alt="Create header row and arrays" src="https://user-images.githubusercontent.com/86980240/132613471-0a485734-84fd-4bb1-8f09-845f5c953f02.png">
 
 3.	After counting rows in datasheets, we set ticker index and three output arrays, assigning variables.
-4.	<img width="313" alt="Set ticker Index and three output arrays" src="https://user-images.githubusercontent.com/86980240/132613528-774743ba-a9dd-4cc6-a657-94768b2a7a05.png">
+	<img width="313" alt="Set ticker Index and three output arrays" src="https://user-images.githubusercontent.com/86980240/132613528-774743ba-a9dd-4cc6-a657-94768b2a7a05.png">
 
 5.	We used for loops function, set ticker volumes to zero and looked for tickers and volumes through out our datasheets. We checked first and last row for ticker index and increased ticker volumes
-6.	<img width="705" alt="Create for loops and increase ticker index" src="https://user-images.githubusercontent.com/86980240/132613563-8202c96b-7141-48ad-8b95-44d1e7d80ff0.png">
+	<img width="705" alt="Create for loops and increase ticker index" src="https://user-images.githubusercontent.com/86980240/132613563-8202c96b-7141-48ad-8b95-44d1e7d80ff0.png">
 
 7.	Finally, we post our outputs in our output sheet and then set formatting. We assign number formats in cell B and C. Also, in cell C we assign green and red color to the percentage returns. We assign our respective macros.
-8.	<img width="604" alt="Formatting worksheet" src="https://user-images.githubusercontent.com/86980240/132613598-9886ff83-a118-43c5-85ad-3c34f191ca91.png">
+	<img width="604" alt="Formatting worksheet" src="https://user-images.githubusercontent.com/86980240/132613598-9886ff83-a118-43c5-85ad-3c34f191ca91.png">
 
 
 Results:
