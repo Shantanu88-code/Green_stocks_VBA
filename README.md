@@ -24,9 +24,13 @@ We followed the following steps to refactor our code and measured the final perf
 
 Results:
 After refactoring the code, our code runs efficiently and faster. It looks neat and readble. As we can see in the following images and compare the difference in running times.
+
 <img width="230" alt="All Stocks 2017" src="https://user-images.githubusercontent.com/86980240/132613703-5c5b20be-6bb3-4e88-b531-211884113734.png">
+
 <img width="241" alt="VBA_challenge_2017" src="https://user-images.githubusercontent.com/86980240/132613738-63cfb6bf-c2a7-4fea-ba2d-e48185118228.png">
+
 <img width="232" alt="All Stocks 2018" src="https://user-images.githubusercontent.com/86980240/132613765-20554829-ff15-4357-8960-f50f2914ffd9.png">
+
 <img width="232" alt="VBA_challenge_2018" src="https://user-images.githubusercontent.com/86980240/132613798-a4900dd0-f01f-41b7-a19e-a739c810ad33.png">
 
 
